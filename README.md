@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/benjivesterby/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/benjivesterby/github-stats/master/generated/languages.svg)
-![](https://api.atuin.sh/img/benji.png?token=54332d090744aa3d28f523cb094bdffff8f0a4af)
 
 # Hey All! I'm Benji!
 
