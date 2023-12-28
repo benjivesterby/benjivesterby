@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/benjivesterby/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/benjivesterby/github-stats/master/generated/languages.svg)
-
 # Hey All! I'm Benji!
 
 I'm focused on building secure, fault tolerant, distributed systems that incorporate bleeding edge technology such as artificial intelligence and machine learning, as methods for solving difficult problems and creating innovative solutions. A good deal of my work is in creating open source software in these areas that can be used by the community.
